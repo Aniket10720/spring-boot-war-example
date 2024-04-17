@@ -34,11 +34,11 @@
   <repository>
 
  
-   <repository>
+    <repository>
     <id>myprivaterepo</id>
      <name>myprivaterepo</name>
 	<url>http://43.204.32.171:8082/nexus/content/repositories/myprivaterepo</url>
-    </repository>   
+           </repository>
  </distributionManagement>
   <dependencies>
     <dependency>
