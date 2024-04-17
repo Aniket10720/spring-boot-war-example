@@ -31,9 +31,6 @@
   </properties>
 
 <distributionManagement>
-  <repository>
-
- 
     <repository>
     <id>myprivaterepo</id>
      <name>myprivaterepo</name>
